@@ -12,6 +12,13 @@ body {
   display: block;
 }
 
+/* code added to create two-column design */
+@media screen and (min-width: 575px){
+   div {
+    margin: 1%;
+    width: 48%;
+  }
+
 .container {
   background-color: orange;
   width: 400px;
@@ -19,7 +26,7 @@ body {
   padding-bottom: 20px;
 }
 
-nav {
+.title {
   background-color: #D8D8D8;
   text-align: center;
   padding: 30px;
