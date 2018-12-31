@@ -67,6 +67,8 @@ body {
 .baku {
   width: 400px;
   position: relative;
+  background-image: url(../images/baku.jpg);
+  background-position: left;
 }
 
 .baku-text {
@@ -84,6 +86,8 @@ body {
 .london {
   width: 400px;
   position: relative;
+  background-image: url(../images/london.png);
+  background-position: left;
 }
 
 .london-text {
@@ -102,6 +106,8 @@ body {
 .madrid {
   width: 400px;
   position: relative;
+  background-image: url(..images/madrid.jpg);
+  background-position: left;
 }
 
 .madrid-text {
@@ -121,6 +127,8 @@ body {
 .rome {
   width: 400px;
   position: relative;
+  background-image: url(../images/rome.jpg);
+  background-position: left;
 }
 
 .rome-text {
