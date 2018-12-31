@@ -1,4 +1,55 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before,* :after {
+ box-sizing: border-box;
+}
+
 body {
-  background-color: #dadada;
+  background-color: white;
   font-size: 10px;
+}
+
+
+.container {
+  background-color: orange;
+  width: 400px;
+  margin: auto;
+}
+
+nav {
+  background-color: #D8D8D8;
+  text-align: center;
+  padding: 30px;
+  font-size: 16px;
+  font-family: open sans;
+  text-transform: uppercase;
+  color: #616161;
+
+}
+
+
+
+.baku {
+  width: 400px;
+}
+
+h2 {
+  color: white;
+  position: absolute;
+
+}
+
+.london {
+  width: 400px;
+}
+
+
+.madrid {
+  width: 400px;
+}
+
+.rome {
+  width: 400px;
 }
