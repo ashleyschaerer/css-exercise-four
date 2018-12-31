@@ -13,33 +13,11 @@ body {
 }
 
 /* code added to create two-column design */
-@media screen and (min-width: 400px){
-   .baku {
+@media screen and (min-width: 600px){
+   .images {
     margin: 1%;
     width: 48%;
-  }
-
-  /* code added to create two-column design */
-  @media screen and (min-width: 400px){
-     .london {
-      margin: 1%;
-      width: 48%;
-    }
-
-    /* code added to create two-column design */
-    @media screen and (min-width: 400px){
-       .madrid {
-        margin: 1%;
-        width: 48%;
-      }
-
-
-      /* code added to create two-column design */
-      @media screen and (min-width: 400px){
-         .rome {
-          margin: 1%;
-          width: 48%;
-        }
+}
 
 .container {
   background-color: orange;
