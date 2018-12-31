@@ -7,15 +7,16 @@ html {
 }
 
 body {
-  background-color: white;
-  font-size: 10px;
+  background-color: blue;
+  font-size: 20px;
+  display: block;
 }
-
 
 .container {
   background-color: orange;
   width: 400px;
   margin: auto;
+  padding-bottom: 20px;
 }
 
 nav {
@@ -29,25 +30,73 @@ nav {
 
 }
 
-
+.preview-baku {
+  margin-bottom: 20px;
+  position: relative;
+}
 
 .baku {
   width: 400px;
+  position: relative;
 }
 
-.preview baku {
-  color: white;
+.baku-text {
+  color: black;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+}
+
+.preview-london {
+  margin-bottom: 20px;
+  position: relative;
 }
 
 .london {
   width: 400px;
+  position: relative;
 }
 
+.london-text {
+  color: black;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+
+}
+
+.preview-madrid {
+  margin-bottom: 20px;
+  position: relative;
+}
 
 .madrid {
   width: 400px;
+  position: relative;
+}
+
+.madrid-text {
+  color: black;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+
+}
+
+.preview-rome{
+  margin-bottom: 20px;
+  position: relative;
+
 }
 
 .rome {
   width: 400px;
+  position: relative;
+}
+
+.rome-text {
+  color: black;
+  position: absolute;
+  top: 50px;
+  left: 40px;
 }
