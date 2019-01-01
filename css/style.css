@@ -12,12 +12,7 @@ body {
   display: block;
 }
 
-/* code added to create two-column design */
-@media screen and (min-width: 600px){
-   .images {
-    margin: 1%;
-    width: 48%;
-}
+
 
 .container {
   background-color: orange;
