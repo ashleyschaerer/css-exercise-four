@@ -14,10 +14,13 @@ body {
 
 /* code added to create two-column design */
 @media screen and (min-width: 600px){
+  img {
+    max-width: 100%;
+  }
+
    .images {
     margin: 1%;
-    width: 48%;
-}
+  }
 
 .container {
   background-color: orange;
@@ -43,10 +46,7 @@ body {
 }
 
 .baku {
-  width: 400px;
-  position: relative;
   background-image: url(../images/baku.jpg);
-  background-position: left;
 }
 
 .baku-text {
@@ -62,10 +62,7 @@ body {
 }
 
 .london {
-  width: 400px;
-  position: relative;
   background-image: url(../images/london.png);
-  background-position: left;
 }
 
 .london-text {
@@ -82,10 +79,7 @@ body {
 }
 
 .madrid {
-  width: 400px;
-  position: relative;
   background-image: url(..images/madrid.jpg);
-  background-position: left;
 }
 
 .madrid-text {
@@ -103,10 +97,7 @@ body {
 }
 
 .rome {
-  width: 400px;
-  position: relative;
   background-image: url(../images/rome.jpg);
-  background-position: left;
 }
 
 .rome-text {
