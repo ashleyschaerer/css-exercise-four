@@ -12,12 +12,6 @@ body {
   display: block;
 }
 
-@media screen and (min-width: 600px){
-   div {
-    margin: 1%;
-    width: 48%;
-  }
-}
 
 
 .container {
@@ -115,4 +109,11 @@ body {
   position: absolute;
   top: 50px;
   left: 40px;
+}
+
+@media screen and (min-width: 600px){
+   div {
+    margin: 1%;
+    width: 48%;
+  }
 }
