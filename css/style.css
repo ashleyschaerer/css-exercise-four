@@ -12,6 +12,12 @@ body {
   display: block;
 }
 
+@media screen and (min-width: 600px){
+   div {
+    margin: 1%;
+    width: 48%;
+  }
+}
 
 
 .container {
