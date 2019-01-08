@@ -35,6 +35,7 @@ body {
 .preview-baku {
   margin-bottom: 20px;
   position: relative;
+  display: inline-block;
 }
 
 .baku {
@@ -54,6 +55,7 @@ body {
 .preview-london {
   margin-bottom: 20px;
   position: relative;
+  display: inline-block;
 }
 
 .london {
@@ -74,6 +76,7 @@ body {
 .preview-madrid {
   margin-bottom: 20px;
   position: relative;
+  display: inline-block;
 }
 
 .madrid {
@@ -94,6 +97,7 @@ body {
 .preview-rome{
   margin-bottom: 20px;
   position: relative;
+  display: inline-block;
 
 }
 
